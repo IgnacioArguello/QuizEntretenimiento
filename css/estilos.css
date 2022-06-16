@@ -1,0 +1,14 @@
+.fondonegro {
+    background-color: grey;
+}
+
+.letrablanca {
+    color: white;
+    text-align: center;
+}
+
+.ajusteimagen {
+    height: 500px;
+    width: 300px;
+    padding: 60px;
+}
